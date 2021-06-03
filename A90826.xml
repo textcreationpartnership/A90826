@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paper of advices to the King. Which were lately to be presented to him at Newcastle, by the malignant faction. Wherein the King is advised, what to stand upon in the propositions of peace to be sent to his Majesty. Transmitted in a letter (bearing date at Newcastle, 3 Iuly 1646.) from an intelligent person, and communicated for publique satisfaction. Publiushed by authority.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90826</idno><idno type="EEBO-CITATION">99861559</idno>
+  <idno type="VID">159775</idno>
+  <idno type="EEBO-PROQUEST">2240896800</idno>
+  
+            <idno type="STC">Wing P284</idno>
+            <idno type="STC">Thomason E343_9</idno>
+            <idno type="STC">ESTC R200948</idno>
+            <idno type="PROQUEST">99861559</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861559e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159775)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E343[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paper of advices to the King. Which were lately to be presented to him at Newcastle, by the malignant faction. Wherein the King is advised, what to stand upon in the propositions of peace to be sent to his Majesty. Transmitted in a letter (bearing date at Newcastle, 3 Iuly 1646.) from an intelligent person, and communicated for publique satisfaction. Publiushed by authority.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Hewer.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159775:1"/>
+            <p>A Paper of Advices to the KING.</p>
+            <p>Which were lately to be presented to Him at Newcastle, <hi>by the Malignant Faction.</hi>
+            </p>
+            <p>Wherein the KING is advised, what to stand upon in the Propositions of Peace to be sent to His Majesty.</p>
+            <p>Transmitted in a Letter (bearing date at Newcastle, 3 <hi>Iuly</hi> 1646.) from an intelligent Person, and communi<g ref="char:EOLhyphen"/>cated for Publique satisfaction.</p>
+            <p>
+               <hi>Published by Authority.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Hewer.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159775:2"/>
+            <pb facs="tcp:159775:2"/>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hat His Majesty may avoyd the great danger and com<g ref="char:EOLhyphen"/>plaints against him for folow<g ref="char:EOLhyphen"/>ing private and evil Counsels. It principally at this time concernes him, not to promise or ingage himselfe in any publique businesse, either of State or Church without a generall or publique consent and agreement: not only of the present houses of both Kingdoms, but likewise the assent of the City of London, and of the Common people in Generall. And therefore,</hi>
+            </p>
+            <p n="1">I. THat his Majesty will be plea<g ref="char:EOLhyphen"/>sed with patience to expect
+<pb n="2" facs="tcp:159775:3"/> from his great Councells, all such Propositions and so formed into acts as may concerne the finall set<g ref="char:EOLhyphen"/>tlement both of Church and State, according to their owne desires. And that his Majesty doe not in<g ref="char:EOLhyphen"/>gage or consent to any of these sing<g ref="char:EOLhyphen"/>ly, or by parts, but joyntly and all<g ref="char:EOLhyphen"/>together.</p>
+            <p n="2">II. That his Majesty be well assu<g ref="char:EOLhyphen"/>red, that these Propositions and acts▪ be with the generall consent, assent, meaning and interpretati<g ref="char:EOLhyphen"/>on of both Houses of both the Kingdomes, the City of London, and the common people in gene<g ref="char:EOLhyphen"/>rall; least a peace made and con<g ref="char:EOLhyphen"/>cluded without such a generall
+<pb n="3" facs="tcp:159775:3"/> consent or assent be the beginning of a new warre.</p>
+            <p n="3">III. That his Majesty would be gra<g ref="char:EOLhyphen"/>ciously inclined when such Pro<g ref="char:EOLhyphen"/>positions come to his hand, to give life unto them, by his Royall as<g ref="char:EOLhyphen"/>sent; And if there be some such acts, which he shall conceive contrary to the dictates of his con<g ref="char:EOLhyphen"/>science, contrary to his former oathes, and contrary to the Pro<g ref="char:EOLhyphen"/>testation taken by this present Par<g ref="char:EOLhyphen"/>liament. That then with all wis<g ref="char:EOLhyphen"/>dome and moderation, he take time to consider of such. And that upon debate, he may either receive satisfaction or still to take time, either for the satisfying or
+<pb n="4" facs="tcp:159775:4"/> rectifying of his conscience.</p>
+            <p n="4">IV. Lastly it is not possible accor<g ref="char:EOLhyphen"/>ding to christianity or humanity, to presse any thing upon his Majesty further, unlesse it be to give way; that such acts as his Majesty is not satisfyed to passe as lawes, may yet for a time limited be put in execu<g ref="char:EOLhyphen"/>tion as <hi>Probationaries,</hi> in hope with<g ref="char:EOLhyphen"/>in the time limited his Majesty may satisfie his conscience, either for allowing, or disallowing such acts for future. And this, (if pres<g ref="char:EOLhyphen"/>sed) his Majesty may with wis<g ref="char:EOLhyphen"/>dome, use such caution, as neither to inthrall his owne conscience, nor the tender consciences of his good Subjects, who shall scruple
+<pb n="5" facs="tcp:159775:4"/> the same. All things being thus in a faire way of composing, it will be fit for his Majesty (if not offe<g ref="char:EOLhyphen"/>red to him) to demand and ex<g ref="char:EOLhyphen"/>pect the payment of his debts, con<g ref="char:EOLhyphen"/>tracted upon himselfe, or his par<g ref="char:EOLhyphen"/>tie for his services, as well as the debts upon publique faith. And that a generall act of oblivion be past of all acts done on either side in order to the Warre, either by his Majesties expresse command, or comnission, or by order or ordi<g ref="char:EOLhyphen"/>nance of Parliament. And per<g ref="char:EOLhyphen"/>haps it will not be improper for his Maiesty to demand all the fines of his owne party, who have not formerly compounded accor<g ref="char:EOLhyphen"/>ding to the rates of such as have compounded already. That these
+<pb n="6" facs="tcp:159775:5"/> fines may helpe to discharge the debts of his Maiesty and his inga<g ref="char:EOLhyphen"/>ged party in debts contracted upon them. But these and many others may be better upon debate as oc<g ref="char:EOLhyphen"/>casion is offered to prevent the to<g ref="char:EOLhyphen"/>tall ruine of his Majesties partie (which it is not doubted) he is most sensible of.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
